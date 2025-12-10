@@ -3,6 +3,7 @@ Final Project for AIDI1002-25F Machine Learning Programming.
 
 This was made to complete the Final Project Assignment for AIDI1002-25F Machine Learning Programming.
 The original model used for BarkTTS is from https://github.com/suno-ai/bark and this code is a modified version fit to satisfy the assignment.
+To pause the loading, press CTRL + C if needed.
 
 INSTRUCTIONS:
 
