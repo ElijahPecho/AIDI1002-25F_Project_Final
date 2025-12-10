@@ -1,0 +1,10 @@
+{
+  "total_samples": 11,
+  "total_audio_duration": 103.33333333333333,
+  "total_generation_time": 2591.5755155086517,
+  "avg_generation_time": 235.59777413715017,
+  "avg_audio_duration": 9.393939393939393,
+  "avg_efficiency": 0.039923021053567924,
+  "categories_tested": 4,
+  "baseline_samples": 2
+}

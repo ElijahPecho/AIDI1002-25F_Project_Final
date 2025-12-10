@@ -1,0 +1,92 @@
+[
+  {
+    "category": "emotional",
+    "subcategory": "happy",
+    "text": "[laughs] Oh my goodness, this is absolutely wonderful! I'm so excited!",
+    "duration": 7.533333333333333,
+    "generation_time": 175.79633331298828,
+    "filepath": "outputs/contribution\\emotion_happy.wav"
+  },
+  {
+    "category": "emotional",
+    "subcategory": "sad",
+    "text": "[sighs] I feel really down today. Everything seems so difficult.",
+    "duration": 12.68,
+    "generation_time": 298.72433519363403,
+    "filepath": "outputs/contribution\\emotion_sad.wav"
+  },
+  {
+    "category": "emotional",
+    "subcategory": "angry",
+    "text": "[shouting] This is completely unacceptable! I cannot believe this!",
+    "duration": 14.906666666666666,
+    "generation_time": 366.6228222846985,
+    "filepath": "outputs/contribution\\emotion_angry.wav"
+  },
+  {
+    "category": "emotional",
+    "subcategory": "surprised",
+    "text": "[gasps] What?! No way! That's absolutely incredible!",
+    "duration": 13.906666666666666,
+    "generation_time": 351.5893759727478,
+    "filepath": "outputs/contribution\\emotion_surprised.wav"
+  },
+  {
+    "category": "emotional",
+    "subcategory": "calm",
+    "text": "Let's take a moment to breathe deeply and find our center.",
+    "duration": 11.76,
+    "generation_time": 302.46208357810974,
+    "filepath": "outputs/contribution\\emotion_calm.wav"
+  },
+  {
+    "category": "style",
+    "subcategory": "professional",
+    "text": "Good morning, everyone. Today's agenda includes reviewing our quarterly results.",
+    "duration": 5.92,
+    "generation_time": 150.0099482536316,
+    "filepath": "outputs/contribution\\style_professional.wav"
+  },
+  {
+    "category": "style",
+    "subcategory": "casual",
+    "text": "Hey, what's up? So, like, I was thinking we could grab some coffee later.",
+    "duration": 6.026666666666666,
+    "generation_time": 153.27121233940125,
+    "filepath": "outputs/contribution\\style_casual.wav"
+  },
+  {
+    "category": "domain",
+    "subcategory": "medical",
+    "text": "The patient presents with acute myocardial infarction. Immediate administration of aspirin is recommended.",
+    "duration": 7.653333333333333,
+    "generation_time": 195.6630895137787,
+    "filepath": "outputs/contribution\\domain_medical.wav"
+  },
+  {
+    "category": "domain",
+    "subcategory": "technical",
+    "text": "To configure the API endpoint, update the base URL parameter with your authentication token.",
+    "duration": 5.6,
+    "generation_time": 140.93877291679382,
+    "filepath": "outputs/contribution\\domain_technical.wav"
+  },
+  {
+    "category": "length",
+    "subcategory": "short",
+    "text": "How are you doing today?",
+    "text_length": 24,
+    "duration": 3.5866666666666664,
+    "generation_time": 90.80236148834229,
+    "filepath": "outputs/contribution\\length_short.wav"
+  },
+  {
+    "category": "length",
+    "subcategory": "long",
+    "text": "The field of natural language processing has evolved dramatically. From simple systems to sophisticated neural networks, we've witnessed unprecedented advances in machine understanding of human language.",
+    "text_length": 203,
+    "duration": 13.76,
+    "generation_time": 365.69518065452576,
+    "filepath": "outputs/contribution\\length_long.wav"
+  }
+]
